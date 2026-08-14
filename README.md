@@ -72,12 +72,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File AutoRip.ps1
 powershell -NoProfile -ExecutionPolicy Bypass -File AutoRipGUI.ps1 -ShowConsole
 ```
 
-## Hinweise
-
-Gerippt wird verlustfrei, eine DVD landet also bei 4–8 GB pro MKV. Fürs anschließende Eindampfen auf H.265 eignet sich z. B. [Tdarr](https://home.tdarr.io/) oder HandBrake.
-
-Das Tool ist für das Sichern eigener, rechtmäßig erworbener Datenträger gedacht. Die Rechtslage zum Umgehen von Kopierschutz unterscheidet sich je nach Land — in Deutschland ist das Umgehen eines wirksamen Kopierschutzes auch für Privatkopien nach § 95a UrhG nicht zulässig.
-
 ## Lizenz
 
 MIT — siehe [LICENSE](LICENSE).
