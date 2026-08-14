@@ -1,0 +1,23 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+*~
+
+# Lokale Konfiguration / Logs / Rips
+settings.json
+*.log
+Rips/
+_makemkv*.log
+_ffmpeg*.log
+_ffmpeg.tmp
+
+# PS2EXE-Ausgabe
+*.exe
